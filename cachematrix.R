@@ -1,6 +1,6 @@
 
 makeCacheMatrix <- function(x = matrix()) {
-    #x is a regular invertible matrix
+    # x is a regular invertible matrix
     # the function will in four steps do the following:
     # 1.set a matrix,2. get a matrix,3. set the inverse,4. get the inverse
     m<- NULL
